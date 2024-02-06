@@ -21,7 +21,8 @@ const Projects = () => {
   <img src={pro1} class="card-img-top" alt="book"/>
   <div class="card-body">
     <h5 class="card-title">Spice Delights</h5>
-    <p class="card-text">It designed by using HTML, CSS, Bootstrap and JavaScript. <br/>
+    <p class="card-text">It designed by using HTML, CSS, Bootstrap and JavaScript.
+  This website developed for restaurant.
     </p>
     <a href="https://renukadeviananthan14.github.io/Spice-delight/" class="btn btn-primary">View</a>
   </div>
