@@ -3,14 +3,8 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 const Footer = () => {
   return (
-    <footer>
-      <Container>
-        <Row>
-          <Col className="text-center py-3">
-            {/* Add your footer content here */}
-          </Col>
-        </Row>
-      </Container>
+    <footer className="py-3">
+      <p class="foot">Designed By Renuka Devi A</p>
     </footer>
   );
 };
