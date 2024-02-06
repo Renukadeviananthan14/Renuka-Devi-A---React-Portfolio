@@ -31,6 +31,23 @@ body{
   color: blue;
   font-weight: bold;
 }
+.py-3{
+  background-color: blue;
+  text-align: center;
+  height: 100px;
+  width: 100%;
+  color: white;
+}
+.bi{
+  color: black;
+  margin: 5px;
+  height: 20px;
+  width: 30px;
+}
+.foot{
+  font-size: 20px;
+  padding: 20px;
+}
 @media only screen and (max-width:600px){
   body{
     display: flex;
